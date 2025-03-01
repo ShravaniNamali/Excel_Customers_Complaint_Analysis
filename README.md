@@ -1,20 +1,20 @@
 # Excel_Customers_Complaint_Analysis
 
 																	
-	Task 1: 
-  Working on data and combining the datasets	
+Task 1: 
+Working on data and combining the datasets	
  
-	Data in the worksheet State_Code_Name is take from internet and is available in JSON format. Perform the following tasks as part of data preparation																
-	1. Create two new columns in the State_Code_Name worksheet and name them as STATE and CODE respectively.																
-	2. From the JSON format, get the data (STATE and CODE) in tabular form using excel options / excel functions.																
-	3. Create a new column in the worksheet Consumer_Complaints and name it State_Name																
-	4. Fill the column State_name in the worksheet Consumer_Complaints with the data from the State_Code_Name worksheet																
+Data in the worksheet State_Code_Name is take from internet and is available in JSON format. Perform the following tasks as part of data preparation																
+1. Create two new columns in the State_Code_Name worksheet and name them as STATE and CODE respectively.																
+2. From the JSON format, get the data (STATE and CODE) in tabular form using excel options / excel functions.																
+3. Create a new column in the worksheet Consumer_Complaints and name it State_Name																
+4. Fill the column State_name in the worksheet Consumer_Complaints with the data from the State_Code_Name worksheet																
 																	
-	Data Analysis:
+Data Analysis:
  
-	5. What is the count of records for which the State Name values didn't showed up (records with #N/A) ?																
-	6. Create a summary table to display number of complaints for only those State_Codes where State_Name is not mapped to State_Code in the worksheet Consumer_Complaints																
-	7. Give your inferences for the possible reasons of non availabilty of the State_Name using the above steps.																
+5. What is the count of records for which the State Name values didn't showed up (records with #N/A) ?																
+6. Create a summary table to display number of complaints for only those State_Codes where State_Name is not mapped to State_Code in the worksheet Consumer_Complaints																
+7. Give your inferences for the possible reasons of non availabilty of the State_Name using the above steps.																
 
 
  Task 2: 
